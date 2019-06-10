@@ -1,0 +1,44 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Our Package File",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "loader": "^2.1.1",
+    "sort-json": "^2.0.0"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-watch": "^5.0.1",
+    "json-sort": "^1.0.7",
+    "sass": "^1.15.1"
+  },
+  "bin": {
+    "gulp": "./bin/gulp.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.scm.ulster.ac.uk/com601_1819/a2.git"
+  },
+  "keywords": [
+    "Assignment",
+    "2",
+    "node",
+    "gulp"
+  ],
+  "author": "A2",
+  "license": "ISC"
+}

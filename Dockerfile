@@ -1,0 +1,5 @@
+FROM node
+WORKDIR /app
+COPY . .
+VOLUME ["/app"]
+EXPOSE 1337
