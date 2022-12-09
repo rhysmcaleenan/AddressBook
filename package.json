@@ -4,8 +4,8 @@
   "description": "Our Package File",
   "main": "index.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "faker": "^4.1.0",
     "loader": "^2.1.1",
     "sort-json": "^2.0.0"
